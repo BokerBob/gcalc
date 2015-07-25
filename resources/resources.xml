@@ -1,0 +1,24 @@
+<resources>
+    <string id="AppName">gCalc</string>
+
+    <bitmap id="LauncherIcon" filename="images/launcher_icon.png" />
+    
+    <string id="menu_one">1</string>
+    <string id="menu_two">2</string>
+    <string id="menu_three">3</string>
+    <string id="menu_four">4</string>
+    <string id="menu_five">5</string>
+    <string id="menu_six">6</string>
+    <string id="menu_seven">7</string>
+    <string id="menu_eight">8</string>
+    <string id="menu_nine">9</string>
+    <string id="menu_zero">0</string>
+    <string id="menu_dot">,</string>
+    <string id="menu_sign">±</string>
+    
+    <string id="menu_plus">+</string>
+    <string id="menu_minus">-</string>
+    <string id="menu_multiple">*</string>
+    <string id="menu_divide">/</string>
+    <string id="menu_sqrt">sqrt</string>
+</resources>
