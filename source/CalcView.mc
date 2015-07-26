@@ -4,9 +4,9 @@ using Toybox.System as Sys;
 
 class CalcView extends RoundMenuView {
     var calcData;
-    const EXP_COLOR = Gfx.COLOR_LT_GRAY;
-    const EXP_FONT = Gfx.FONT_XTINY;
-    const RES_COLOR = Gfx.COLOR_ORANGE;
+    const EXP_COLOR = Gfx.COLOR_WHITE;
+    const EXP_FONT = Gfx.FONT_TINY;
+    const RES_COLOR = Gfx.COLOR_RED;
     const RES_FONT = Gfx.FONT_NUMBER_MEDIUM;
 
     function initialize(calcData_) {

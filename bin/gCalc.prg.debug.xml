@@ -1,280 +1,280 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="19" pc="268435458" symbol="initialize"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="29" pc="268435477" symbol="getRoundCoord"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="30" pc="268435504" symbol="getRoundCoord"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="31" pc="268435531" symbol="getRoundCoord"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="35" pc="268435561" symbol="drawLine"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="36" pc="268435571" symbol="drawLine"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="37" pc="268435575" symbol="drawLine"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="38" pc="268435596" symbol="drawLine"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="39" pc="268435617" symbol="drawLine"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="44" pc="268435664" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="45" pc="268435683" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="46" pc="268435702" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="48" pc="268435706" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="49" pc="268435734" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="50" pc="268435746" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="52" pc="268435763" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="53" pc="268435803" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="54" pc="268435828" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="55" pc="268435838" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="56" pc="268435875" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="57" pc="268435890" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="58" pc="268435924" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="59" pc="268435931" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="60" pc="268435952" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="61" pc="268435962" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="63" pc="268435975" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="64" pc="268435978" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="65" pc="268435998" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="66" pc="268436026" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="67" pc="268436036" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="70" pc="268436172" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="71" pc="268436200" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="75" pc="268436213" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="76" pc="268436241" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="80" pc="268436251" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="81" pc="268436272" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="82" pc="268436282" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="83" pc="268436305" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="84" pc="268436313" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="85" pc="268436326" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="86" pc="268436334" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="89" pc="268436358" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="90" pc="268436371" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="91" pc="268436379" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="95" pc="268436395" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="7" pc="268441617" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="8" pc="268441637" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="9" pc="268441657" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="10" pc="268441677" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="12" pc="268441697" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="13" pc="268441717" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="14" pc="268441737" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="15" pc="268436449" symbol="initialize"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="19" pc="268436462" symbol="onKeyPressed"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="20" pc="268436472" symbol="onKeyPressed"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="24" pc="268436519" symbol="onKeyReleased"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="25" pc="268436567" symbol="onKeyReleased"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="26" pc="268436576" symbol="onKeyReleased"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="27" pc="268436594" symbol="onKeyReleased"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="32" pc="268436614" symbol="onLongPressCallback"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="33" pc="268436627" symbol="onLongPressCallback"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="35" pc="268436633" symbol="onLongPressCallback"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="36" pc="268436643" symbol="onLongPressCallback"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="37" pc="268436652" symbol="onLongPressCallback"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="38" pc="268436666" symbol="onLongPressCallback"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="42" pc="268436672" symbol="onShortPress"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="43" pc="268436685" symbol="onShortPress"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="44" pc="268436703" symbol="onShortPress"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="45" pc="268436721" symbol="onShortPress"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="46" pc="268436737" symbol="onShortPress"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="48" pc="268436761" symbol="onShortPress"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="49" pc="268436779" symbol="onShortPress"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="50" pc="268436795" symbol="onShortPress"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="52" pc="268436801" symbol="onShortPress"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="56" pc="268436807" symbol="onLongPress"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="57" pc="268436820" symbol="onLongPress"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="58" pc="268436838" symbol="onLongPress"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="59" pc="268436856" symbol="onLongPress"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="60" pc="268436872" symbol="onLongPress"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="62" pc="268436896" symbol="onLongPress"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="63" pc="268436914" symbol="onLongPress"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="64" pc="268436930" symbol="onLongPress"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="66" pc="268436936" symbol="onLongPress"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="12" pc="268441089" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDataFactory.mc" lineNum="8" pc="268436942" symbol="getData"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDataFactory.mc" lineNum="9" pc="268436950" symbol="getData"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="12" pc="268436989" symbol="initialize"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="13" pc="268436999" symbol="initialize"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="14" pc="268437009" symbol="initialize"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="18" pc="268437022" symbol="getSelectedGroup"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="22" pc="268437043" symbol="getSelectedItem"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="26" pc="268437073" symbol="goPrevItem"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="29" pc="268437114" symbol="goNextItem"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="32" pc="268437155" symbol="goPrevGroup"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="33" pc="268437190" symbol="goPrevGroup"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="36" pc="268437206" symbol="goNextGroup"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="37" pc="268437241" symbol="goNextGroup"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="41" pc="268437257" symbol="nextIndex"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="42" pc="268437267" symbol="nextIndex"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="46" pc="268437298" symbol="prevIndex"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="47" pc="268437308" symbol="prevIndex"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="51" pc="268437345" symbol="checkErrors"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="62" pc="268437497" symbol="initialize"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="63" pc="268437507" symbol="initialize"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="71" pc="268437520" symbol="initialize"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="72" pc="268437530" symbol="initialize"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="9" pc="268437543" symbol="initialize"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="13" pc="268437557" symbol="push"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="14" pc="268437576" symbol="push"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="18" pc="268437601" symbol="pop"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="19" pc="268437618" symbol="pop"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="21" pc="268437623" symbol="pop"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="22" pc="268437645" symbol="pop"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="32" pc="268437666" symbol="initialize"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="42" pc="268437679" symbol="addFirst"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="43" pc="268437705" symbol="addFirst"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="44" pc="268437718" symbol="addFirst"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="45" pc="268437728" symbol="addFirst"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="47" pc="268437747" symbol="addFirst"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="48" pc="268437763" symbol="addFirst"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="50" pc="268437773" symbol="addFirst"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="54" pc="268437798" symbol="addLast"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="55" pc="268437824" symbol="addLast"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="56" pc="268437837" symbol="addLast"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="57" pc="268437847" symbol="addLast"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="59" pc="268437866" symbol="addLast"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="60" pc="268437882" symbol="addLast"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="62" pc="268437904" symbol="addLast"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="66" pc="268437929" symbol="getFirst"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="67" pc="268437942" symbol="getFirst"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="69" pc="268437947" symbol="getFirst"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="73" pc="268437965" symbol="getLast"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="74" pc="268437978" symbol="getLast"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="76" pc="268437983" symbol="getLast"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="80" pc="268438001" symbol="removeFirst"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="81" pc="268438014" symbol="removeFirst"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="82" pc="268438036" symbol="removeFirst"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="87" pc="268438064" symbol="removeLast"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="88" pc="268438077" symbol="removeLast"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="89" pc="268438099" symbol="removeLast"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="99" pc="268438131" symbol="enqueue"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="103" pc="268438148" symbol="dequeue"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="104" pc="268438161" symbol="dequeue"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="105" pc="268438168" symbol="dequeue"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="107" pc="268438173" symbol="dequeue"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="108" pc="268438185" symbol="dequeue"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcView.mc" lineNum="13" pc="268438191" symbol="initialize"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcView.mc" lineNum="14" pc="268438207" symbol="initialize"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcView.mc" lineNum="18" pc="268438220" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcView.mc" lineNum="20" pc="268438240" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcView.mc" lineNum="21" pc="268438259" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcView.mc" lineNum="23" pc="268438275" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcView.mc" lineNum="24" pc="268438294" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcView.mc" lineNum="25" pc="268438313" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcView.mc" lineNum="27" pc="268438326" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcView.mc" lineNum="28" pc="268438354" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcView.mc" lineNum="30" pc="268438395" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcView.mc" lineNum="31" pc="268438423" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcView.mc" lineNum="7" pc="268441518" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcView.mc" lineNum="8" pc="268441538" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcView.mc" lineNum="9" pc="268441558" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcView.mc" lineNum="10" pc="268441578" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="9" pc="268438467" symbol="toRPN"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="10" pc="268438496" symbol="toRPN"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="11" pc="268438520" symbol="toRPN"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="12" pc="268438533" symbol="toRPN"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="13" pc="268438536" symbol="toRPN"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="14" pc="268438551" symbol="toRPN"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="16" pc="268438558" symbol="toRPN"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="17" pc="268438575" symbol="toRPN"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="18" pc="268438582" symbol="toRPN"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="19" pc="268438586" symbol="toRPN"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="21" pc="268438592" symbol="toRPN"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="22" pc="268438599" symbol="toRPN"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="23" pc="268438613" symbol="toRPN"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="25" pc="268438619" symbol="toRPN"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="31" pc="268438676" symbol="toRPN"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="32" pc="268438689" symbol="toRPN"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="33" pc="268438696" symbol="toRPN"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="34" pc="268438710" symbol="toRPN"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="36" pc="268438726" symbol="toRPN"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="40" pc="268438732" symbol="checkNumber"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="41" pc="268438749" symbol="checkNumber"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="42" pc="268438756" symbol="checkNumber"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="44" pc="268438784" symbol="checkNumber"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="46" pc="268438826" symbol="checkNumber"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="48" pc="268438849" symbol="checkNumber"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="51" pc="268438859" symbol="checkNumber"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="53" pc="268438901" symbol="checkNumber"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="55" pc="268438924" symbol="checkNumber"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="58" pc="268438967" symbol="checkNumber"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="60" pc="268438992" symbol="checkNumber"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="62" pc="268438998" symbol="checkNumber"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="66" pc="268439003" symbol="checkFunc"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="67" pc="268439020" symbol="checkFunc"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="68" pc="268439033" symbol="checkFunc"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="69" pc="268439053" symbol="checkFunc"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="72" pc="268439062" symbol="checkFunc"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="76" pc="268439068" symbol="checkForOperator"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="77" pc="268439085" symbol="checkForOperator"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="78" pc="268439098" symbol="checkForOperator"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="81" pc="268439180" symbol="checkForOperator"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="82" pc="268439194" symbol="checkForOperator"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="84" pc="268439210" symbol="checkForOperator"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="85" pc="268439224" symbol="checkForOperator"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="87" pc="268439230" symbol="checkForOperator"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="91" pc="268439236" symbol="calculate"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDelegate.mc" lineNum="8" pc="268439245" symbol="initialize"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDelegate.mc" lineNum="9" pc="268439261" symbol="initialize"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDelegate.mc" lineNum="13" pc="268439274" symbol="onShortPress"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDelegate.mc" lineNum="14" pc="268439297" symbol="onShortPress"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDelegate.mc" lineNum="15" pc="268439324" symbol="onShortPress"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDelegate.mc" lineNum="16" pc="268439386" symbol="onShortPress"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDelegate.mc" lineNum="17" pc="268439402" symbol="onShortPress"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDelegate.mc" lineNum="19" pc="268439408" symbol="onShortPress"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDelegate.mc" lineNum="21" pc="268439414" symbol="onShortPress"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDelegate.mc" lineNum="25" pc="268439420" symbol="onLongPress"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDelegate.mc" lineNum="26" pc="268439443" symbol="onLongPress"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDelegate.mc" lineNum="27" pc="268439470" symbol="onLongPress"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDelegate.mc" lineNum="28" pc="268439521" symbol="onLongPress"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDelegate.mc" lineNum="29" pc="268439537" symbol="onLongPress"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDelegate.mc" lineNum="31" pc="268439543" symbol="onLongPress"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDelegate.mc" lineNum="33" pc="268439549" symbol="onLongPress"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDataFactory.mc" lineNum="10" pc="268439555" symbol="addToken"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDataFactory.mc" lineNum="11" pc="268439575" symbol="addToken"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDataFactory.mc" lineNum="15" pc="268439597" symbol="initialize"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDataFactory.mc" lineNum="16" pc="268439627" symbol="initialize"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDataFactory.mc" lineNum="20" pc="268439660" symbol="createMenuItem"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDataFactory.mc" lineNum="24" pc="268439712" symbol="getData"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDataFactory.mc" lineNum="42" pc="268440638" symbol="getData"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDataFactory.mc" lineNum="43" pc="268440674" symbol="getData"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDataFactory.mc" lineNum="44" pc="268440722" symbol="getData"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="10" pc="268440734" symbol="initialize"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="11" pc="268440744" symbol="initialize"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="12" pc="268440754" symbol="initialize"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="16" pc="268440767" symbol="getExpression"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="17" pc="268440774" symbol="getExpression"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="18" pc="268440790" symbol="getExpression"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="19" pc="268440797" symbol="getExpression"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="20" pc="268440816" symbol="getExpression"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="22" pc="268440829" symbol="getExpression"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="30" pc="268440835" symbol="initialize"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="31" pc="268440845" symbol="initialize"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="32" pc="268440855" symbol="initialize"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="44" pc="268440868" symbol="initialize"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="45" pc="268440878" symbol="initialize"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="46" pc="268440888" symbol="initialize"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="47" pc="268440898" symbol="initialize"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="48" pc="268440908" symbol="initialize"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="52" pc="268440921" symbol="getValue"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcApp.mc" lineNum="8" pc="268440942" symbol="onStart"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcApp.mc" lineNum="15" pc="268440978" symbol="getInitialView"/>
-<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcApp.mc" lineNum="16" pc="268440997" symbol="getInitialView"/>
-<entry filename="Rez" lineNum="5" pc="268441194" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="6" pc="268441203" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="7" pc="268441212" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="8" pc="268441221" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="9" pc="268441230" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="10" pc="268441239" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="11" pc="268441248" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="12" pc="268441257" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="13" pc="268441266" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="14" pc="268441275" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="15" pc="268441284" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="16" pc="268441293" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="17" pc="268441302" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="18" pc="268441311" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="19" pc="268441320" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="20" pc="268441329" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="21" pc="268441338" symbol="&lt;init&gt;"/>
-<entry filename="Rez" lineNum="26" pc="268441181" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="21" pc="268435458" symbol="initialize"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="31" pc="268435477" symbol="getRoundCoord"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="32" pc="268435504" symbol="getRoundCoord"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="33" pc="268435531" symbol="getRoundCoord"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="37" pc="268435561" symbol="drawLine"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="38" pc="268435571" symbol="drawLine"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="39" pc="268435575" symbol="drawLine"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="40" pc="268435596" symbol="drawLine"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="41" pc="268435617" symbol="drawLine"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="46" pc="268435664" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="47" pc="268435683" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="48" pc="268435702" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="50" pc="268435706" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="51" pc="268435734" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="52" pc="268435746" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="54" pc="268435763" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="55" pc="268435803" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="56" pc="268435828" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="57" pc="268435841" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="58" pc="268435874" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="59" pc="268435889" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="60" pc="268435923" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="61" pc="268435930" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="62" pc="268435951" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="63" pc="268435961" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="65" pc="268435974" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="66" pc="268435977" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="67" pc="268435997" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="68" pc="268436025" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="69" pc="268436035" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="72" pc="268436171" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="73" pc="268436199" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="77" pc="268436212" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="78" pc="268436240" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="82" pc="268436250" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="83" pc="268436271" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="84" pc="268436281" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="85" pc="268436304" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="86" pc="268436312" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="87" pc="268436325" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="88" pc="268436333" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="91" pc="268436357" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="92" pc="268436370" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="93" pc="268436378" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="97" pc="268436394" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="7" pc="268441616" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="8" pc="268441636" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="9" pc="268441656" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="10" pc="268441676" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="12" pc="268441696" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="13" pc="268441716" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuView.mc" lineNum="14" pc="268441736" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="15" pc="268436448" symbol="initialize"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="19" pc="268436461" symbol="onKeyPressed"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="20" pc="268436471" symbol="onKeyPressed"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="24" pc="268436518" symbol="onKeyReleased"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="25" pc="268436566" symbol="onKeyReleased"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="26" pc="268436575" symbol="onKeyReleased"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="27" pc="268436593" symbol="onKeyReleased"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="32" pc="268436613" symbol="onLongPressCallback"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="33" pc="268436626" symbol="onLongPressCallback"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="35" pc="268436632" symbol="onLongPressCallback"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="36" pc="268436642" symbol="onLongPressCallback"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="37" pc="268436651" symbol="onLongPressCallback"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="38" pc="268436665" symbol="onLongPressCallback"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="42" pc="268436671" symbol="onShortPress"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="43" pc="268436684" symbol="onShortPress"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="44" pc="268436702" symbol="onShortPress"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="45" pc="268436720" symbol="onShortPress"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="46" pc="268436736" symbol="onShortPress"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="48" pc="268436760" symbol="onShortPress"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="49" pc="268436778" symbol="onShortPress"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="50" pc="268436794" symbol="onShortPress"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="52" pc="268436800" symbol="onShortPress"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="56" pc="268436806" symbol="onLongPress"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="57" pc="268436819" symbol="onLongPress"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="58" pc="268436837" symbol="onLongPress"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="59" pc="268436855" symbol="onLongPress"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="60" pc="268436871" symbol="onLongPress"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="62" pc="268436895" symbol="onLongPress"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="63" pc="268436913" symbol="onLongPress"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="64" pc="268436929" symbol="onLongPress"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="66" pc="268436935" symbol="onLongPress"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDelegate.mc" lineNum="12" pc="268441088" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDataFactory.mc" lineNum="8" pc="268436941" symbol="getData"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuDataFactory.mc" lineNum="9" pc="268436949" symbol="getData"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="12" pc="268436988" symbol="initialize"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="13" pc="268436998" symbol="initialize"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="14" pc="268437008" symbol="initialize"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="18" pc="268437021" symbol="getSelectedGroup"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="22" pc="268437042" symbol="getSelectedItem"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="26" pc="268437072" symbol="goPrevItem"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="29" pc="268437113" symbol="goNextItem"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="32" pc="268437154" symbol="goPrevGroup"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="33" pc="268437189" symbol="goPrevGroup"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="36" pc="268437205" symbol="goNextGroup"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="37" pc="268437240" symbol="goNextGroup"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="41" pc="268437256" symbol="nextIndex"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="42" pc="268437266" symbol="nextIndex"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="46" pc="268437297" symbol="prevIndex"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="47" pc="268437307" symbol="prevIndex"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="51" pc="268437344" symbol="checkErrors"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="62" pc="268437496" symbol="initialize"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="63" pc="268437506" symbol="initialize"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="71" pc="268437519" symbol="initialize"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\RoundMenu\\RoundMenuData.mc" lineNum="72" pc="268437529" symbol="initialize"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="9" pc="268437542" symbol="initialize"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="13" pc="268437556" symbol="push"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="14" pc="268437575" symbol="push"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="18" pc="268437600" symbol="pop"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="19" pc="268437617" symbol="pop"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="21" pc="268437622" symbol="pop"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="22" pc="268437644" symbol="pop"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="32" pc="268437665" symbol="initialize"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="42" pc="268437678" symbol="addFirst"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="43" pc="268437704" symbol="addFirst"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="44" pc="268437717" symbol="addFirst"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="45" pc="268437727" symbol="addFirst"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="47" pc="268437746" symbol="addFirst"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="48" pc="268437762" symbol="addFirst"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="50" pc="268437772" symbol="addFirst"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="54" pc="268437797" symbol="addLast"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="55" pc="268437823" symbol="addLast"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="56" pc="268437836" symbol="addLast"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="57" pc="268437846" symbol="addLast"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="59" pc="268437865" symbol="addLast"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="60" pc="268437881" symbol="addLast"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="62" pc="268437903" symbol="addLast"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="66" pc="268437928" symbol="getFirst"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="67" pc="268437941" symbol="getFirst"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="69" pc="268437946" symbol="getFirst"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="73" pc="268437964" symbol="getLast"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="74" pc="268437977" symbol="getLast"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="76" pc="268437982" symbol="getLast"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="80" pc="268438000" symbol="removeFirst"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="81" pc="268438013" symbol="removeFirst"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="82" pc="268438035" symbol="removeFirst"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="87" pc="268438063" symbol="removeLast"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="88" pc="268438076" symbol="removeLast"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="89" pc="268438098" symbol="removeLast"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="99" pc="268438130" symbol="enqueue"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="103" pc="268438147" symbol="dequeue"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="104" pc="268438160" symbol="dequeue"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="105" pc="268438167" symbol="dequeue"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="107" pc="268438172" symbol="dequeue"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\DataStructures.mc" lineNum="108" pc="268438184" symbol="dequeue"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcView.mc" lineNum="13" pc="268438190" symbol="initialize"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcView.mc" lineNum="14" pc="268438206" symbol="initialize"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcView.mc" lineNum="18" pc="268438219" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcView.mc" lineNum="20" pc="268438239" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcView.mc" lineNum="21" pc="268438258" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcView.mc" lineNum="23" pc="268438274" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcView.mc" lineNum="24" pc="268438293" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcView.mc" lineNum="25" pc="268438312" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcView.mc" lineNum="27" pc="268438325" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcView.mc" lineNum="28" pc="268438353" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcView.mc" lineNum="30" pc="268438394" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcView.mc" lineNum="31" pc="268438422" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcView.mc" lineNum="7" pc="268441517" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcView.mc" lineNum="8" pc="268441537" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcView.mc" lineNum="9" pc="268441557" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcView.mc" lineNum="10" pc="268441577" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="9" pc="268438466" symbol="toRPN"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="10" pc="268438495" symbol="toRPN"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="11" pc="268438519" symbol="toRPN"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="12" pc="268438532" symbol="toRPN"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="13" pc="268438535" symbol="toRPN"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="14" pc="268438550" symbol="toRPN"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="16" pc="268438557" symbol="toRPN"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="17" pc="268438574" symbol="toRPN"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="18" pc="268438581" symbol="toRPN"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="19" pc="268438585" symbol="toRPN"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="21" pc="268438591" symbol="toRPN"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="22" pc="268438598" symbol="toRPN"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="23" pc="268438612" symbol="toRPN"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="25" pc="268438618" symbol="toRPN"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="31" pc="268438675" symbol="toRPN"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="32" pc="268438688" symbol="toRPN"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="33" pc="268438695" symbol="toRPN"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="34" pc="268438709" symbol="toRPN"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="36" pc="268438725" symbol="toRPN"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="40" pc="268438731" symbol="checkNumber"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="41" pc="268438748" symbol="checkNumber"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="42" pc="268438755" symbol="checkNumber"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="44" pc="268438783" symbol="checkNumber"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="46" pc="268438825" symbol="checkNumber"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="48" pc="268438848" symbol="checkNumber"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="51" pc="268438858" symbol="checkNumber"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="53" pc="268438900" symbol="checkNumber"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="55" pc="268438923" symbol="checkNumber"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="58" pc="268438966" symbol="checkNumber"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="60" pc="268438991" symbol="checkNumber"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="62" pc="268438997" symbol="checkNumber"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="66" pc="268439002" symbol="checkFunc"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="67" pc="268439019" symbol="checkFunc"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="68" pc="268439032" symbol="checkFunc"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="69" pc="268439052" symbol="checkFunc"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="72" pc="268439061" symbol="checkFunc"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="76" pc="268439067" symbol="checkForOperator"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="77" pc="268439084" symbol="checkForOperator"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="78" pc="268439097" symbol="checkForOperator"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="81" pc="268439179" symbol="checkForOperator"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="82" pc="268439193" symbol="checkForOperator"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="84" pc="268439209" symbol="checkForOperator"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="85" pc="268439223" symbol="checkForOperator"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="87" pc="268439229" symbol="checkForOperator"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcEngine.mc" lineNum="91" pc="268439235" symbol="calculate"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDelegate.mc" lineNum="8" pc="268439244" symbol="initialize"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDelegate.mc" lineNum="9" pc="268439260" symbol="initialize"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDelegate.mc" lineNum="13" pc="268439273" symbol="onShortPress"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDelegate.mc" lineNum="14" pc="268439296" symbol="onShortPress"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDelegate.mc" lineNum="15" pc="268439323" symbol="onShortPress"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDelegate.mc" lineNum="16" pc="268439385" symbol="onShortPress"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDelegate.mc" lineNum="17" pc="268439401" symbol="onShortPress"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDelegate.mc" lineNum="19" pc="268439407" symbol="onShortPress"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDelegate.mc" lineNum="21" pc="268439413" symbol="onShortPress"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDelegate.mc" lineNum="25" pc="268439419" symbol="onLongPress"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDelegate.mc" lineNum="26" pc="268439442" symbol="onLongPress"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDelegate.mc" lineNum="27" pc="268439469" symbol="onLongPress"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDelegate.mc" lineNum="28" pc="268439520" symbol="onLongPress"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDelegate.mc" lineNum="29" pc="268439536" symbol="onLongPress"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDelegate.mc" lineNum="31" pc="268439542" symbol="onLongPress"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDelegate.mc" lineNum="33" pc="268439548" symbol="onLongPress"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDataFactory.mc" lineNum="10" pc="268439554" symbol="addToken"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDataFactory.mc" lineNum="11" pc="268439574" symbol="addToken"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDataFactory.mc" lineNum="15" pc="268439596" symbol="initialize"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDataFactory.mc" lineNum="16" pc="268439626" symbol="initialize"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDataFactory.mc" lineNum="20" pc="268439659" symbol="createMenuItem"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDataFactory.mc" lineNum="24" pc="268439711" symbol="getData"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDataFactory.mc" lineNum="42" pc="268440637" symbol="getData"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDataFactory.mc" lineNum="43" pc="268440673" symbol="getData"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcDataFactory.mc" lineNum="44" pc="268440721" symbol="getData"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="10" pc="268440733" symbol="initialize"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="11" pc="268440743" symbol="initialize"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="12" pc="268440753" symbol="initialize"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="16" pc="268440766" symbol="getExpression"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="17" pc="268440773" symbol="getExpression"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="18" pc="268440789" symbol="getExpression"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="19" pc="268440796" symbol="getExpression"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="20" pc="268440815" symbol="getExpression"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="22" pc="268440828" symbol="getExpression"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="30" pc="268440834" symbol="initialize"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="31" pc="268440844" symbol="initialize"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="32" pc="268440854" symbol="initialize"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="44" pc="268440867" symbol="initialize"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="45" pc="268440877" symbol="initialize"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="46" pc="268440887" symbol="initialize"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="47" pc="268440897" symbol="initialize"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="48" pc="268440907" symbol="initialize"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcData.mc" lineNum="52" pc="268440920" symbol="getValue"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcApp.mc" lineNum="8" pc="268440941" symbol="onStart"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcApp.mc" lineNum="15" pc="268440977" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Tesss\\Documents\\GitHub\\gcalc\\source\\CalcApp.mc" lineNum="16" pc="268440996" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="5" pc="268441193" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="6" pc="268441202" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="7" pc="268441211" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="8" pc="268441220" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="9" pc="268441229" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="10" pc="268441238" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="11" pc="268441247" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="12" pc="268441256" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="13" pc="268441265" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="14" pc="268441274" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="15" pc="268441283" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="16" pc="268441292" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="17" pc="268441301" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="18" pc="268441310" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="19" pc="268441319" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="20" pc="268441328" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="21" pc="268441337" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="26" pc="268441180" symbol="&lt;init&gt;"/>
 </pcToLineNum>
 <symbolTable>
-<entry id="122" symbol="funcToken"/>
+<entry id="123" symbol="funcToken"/>
 <entry id="8389359" symbol="&lt;gre&gt;"/>
 <entry id="8389061" symbol="mMode"/>
 <entry field="true" id="8388831" symbol="SPORT_RUNNING"/>
@@ -359,7 +359,7 @@
 <entry field="true" id="8389035" symbol="NUMBER_PICKER_TIME_MIN_SEC"/>
 <entry id="8389023" object="true" symbol="View"/>
 <entry id="8389087" method="true" symbol="setProgress"/>
-<entry id="120" symbol="dot"/>
+<entry id="121" symbol="dot"/>
 <entry id="8388899" method="true" symbol="log"/>
 <entry field="true" id="8389501" symbol="muscleMass"/>
 <entry id="8389099" method="true" symbol="onHold"/>
@@ -367,14 +367,14 @@
 <entry field="true" id="8388742" symbol="currentPower"/>
 <entry id="8389440" object="true" symbol="GeocacheProgrammableData"/>
 <entry id="8389031" object="true" symbol="Confirmation"/>
-<entry field="true" id="106" symbol="data"/>
+<entry field="true" id="107" symbol="data"/>
 <entry id="8389383" method="true" symbol="getObscurityFlags"/>
 <entry id="8389193" method="true" symbol="getTextWidthInPixels"/>
 <entry id="8389069" method="true" symbol="setLocation"/>
 <entry id="8389363" symbol="&lt;nob&gt;"/>
 <entry id="8388659" method="true" symbol="testAbs"/>
 <entry field="true" id="8388989" symbol="dutyCycle"/>
-<entry id="114" method="true" symbol="checkForOperator"/>
+<entry id="115" method="true" symbol="checkForOperator"/>
 <entry id="8389043" object="true" symbol="ProgressBar"/>
 <entry field="true" id="56" symbol="AppName"/>
 <entry field="true" id="8388927" symbol="SECONDS_PER_YEAR"/>
@@ -401,7 +401,7 @@
 <entry id="8389493" method="true" symbol="getWeightScaleStatus"/>
 <entry id="8388649" module="true" object="true" symbol="Test"/>
 <entry field="true" id="8388837" symbol="SPORT_SOCCER"/>
-<entry id="132" symbol="nine"/>
+<entry id="133" symbol="nine"/>
 <entry field="true" id="8389496" symbol="basalMetabolicRate"/>
 <entry field="true" id="8388958" symbol="speed"/>
 <entry id="8388887" symbol="mData"/>
@@ -478,7 +478,7 @@
 <entry id="8388665" method="true" symbol="testMul"/>
 <entry field="true" id="8389404" symbol="elevationUnits"/>
 <entry field="true" id="8389223" symbol="MSG_CODE_EVENT_RX_FAIL_GO_TO_SEARCH"/>
-<entry id="137" symbol="division"/>
+<entry id="138" symbol="division"/>
 <entry id="8388829" method="true" symbol="onComplete"/>
 <entry id="8388777" method="true" symbol="toLong"/>
 <entry id="8388642" module="true" symbol="Position"/>
@@ -494,18 +494,18 @@
 <entry field="true" id="8389156" symbol="FONT_LARGE"/>
 <entry field="true" id="8389004" symbol="KEY_UP_LEFT"/>
 <entry id="8388886" symbol="Toybox_ActivityRecording_Session"/>
-<entry id="119" symbol="sign"/>
+<entry id="120" symbol="sign"/>
 <entry id="8388687" method="true" symbol="testLocationSemicircles"/>
 <entry field="true" id="8389216" symbol="MSG_CODE_EVENT_RX_SEARCH_TIMEOUT"/>
 <entry field="true" id="8389560" symbol="KEY_RESET"/>
 <entry field="true" id="8388952" symbol="SENSOR_BIKEPOWER"/>
 <entry field="true" id="8388853" symbol="SUB_SPORT_TRAIL"/>
-<entry id="111" symbol="toRPN"/>
-<entry id="128" symbol="five"/>
+<entry id="112" symbol="toRPN"/>
+<entry id="129" symbol="five"/>
 <entry field="true" id="8389203" symbol="MSG_ID_NETWORK_KEY"/>
 <entry id="8388774" method="true" symbol="abs"/>
 <entry id="8389098" method="true" symbol="onTap"/>
-<entry id="124" symbol="one"/>
+<entry id="125" symbol="one"/>
 <entry field="true" id="8389416" symbol="BATT_STATUS_INVALID"/>
 <entry field="true" id="8389417" symbol="BATT_STATUS_CNT"/>
 <entry id="8388759" object="true" symbol="Long"/>
@@ -553,7 +553,7 @@
 <entry id="8389329" symbol="november"/>
 <entry id="8389325" symbol="july"/>
 <entry field="true" id="8388959" symbol="cadence"/>
-<entry id="117" symbol="digit"/>
+<entry id="118" symbol="digit"/>
 <entry id="8388650" object="true" symbol="Dictionary"/>
 <entry id="30" method="true" symbol="onLongPressCallback"/>
 <entry id="8388627" module="true" symbol="Toybox_Graphics"/>
@@ -599,7 +599,7 @@
 <entry id="29" symbol="timer"/>
 <entry id="23" object="true" symbol="CalcDataItem"/>
 <entry id="25" object="true" symbol="CalcApp"/>
-<entry id="112" method="true" symbol="checkNumber"/>
+<entry id="113" method="true" symbol="checkNumber"/>
 <entry field="true" id="8389039" symbol="NUMBER_PICKER_CALORIES"/>
 <entry id="8389541" method="true" symbol="onCancel"/>
 <entry field="true" id="8388968" symbol="TONE_STOP"/>
@@ -618,7 +618,7 @@
 <entry id="26" symbol="LONG_PRESS_DURATION"/>
 <entry field="true" id="8389561" symbol="KEY_SPORT"/>
 <entry field="true" id="8388911" symbol="distance"/>
-<entry id="135" symbol="subtraction"/>
+<entry id="136" symbol="subtraction"/>
 <entry id="8389391" method="true" symbol="testArray"/>
 <entry field="true" id="8388724" symbol="battery"/>
 <entry id="8388948" method="true" symbol="multiply"/>
@@ -645,7 +645,7 @@
 <entry id="8389305" symbol="lat"/>
 <entry id="8389235" object="true" symbol="GenericChannel"/>
 <entry field="true" id="8389158" symbol="COLOR_LT_GRAY"/>
-<entry id="109" method="true" symbol="enqueue"/>
+<entry id="110" method="true" symbol="enqueue"/>
 <entry field="true" id="8389240" symbol="messageId"/>
 <entry id="8389241" symbol="dataLow"/>
 <entry id="8389366" symbol="&lt;rus&gt;"/>
@@ -676,7 +676,7 @@
 <entry id="8389494" method="true" symbol="setUserProfile"/>
 <entry id="8389377" method="true" symbol="onExitSleep"/>
 <entry id="8388941" symbol="mDateTime"/>
-<entry id="123" symbol="operator"/>
+<entry id="124" symbol="operator"/>
 <entry id="8388799" method="true" symbol="toUpper"/>
 <entry id="8388681" method="true" symbol="testDecr"/>
 <entry field="true" id="8389499" symbol="boneMass"/>
@@ -776,14 +776,14 @@
 <entry id="8389409" module="true" symbol="Toybox_AntPlus"/>
 <entry field="true" id="8388800" symbol="UNKNOWN_ERROR"/>
 <entry id="8388760" object="true" symbol="Float"/>
-<entry id="113" method="true" symbol="checkFunc"/>
+<entry id="114" method="true" symbol="checkFunc"/>
 <entry id="8389081" method="true" symbol="onBack"/>
 <entry field="true" id="8389044" symbol="SLIDE_IMMEDIATE"/>
 <entry field="true" id="8388757" symbol="currentHeading"/>
 <entry id="8388828" method="true" symbol="onError"/>
 <entry field="true" id="8389104" symbol="event"/>
 <entry field="true" id="8388746" symbol="totalDescent"/>
-<entry id="127" symbol="four"/>
+<entry id="128" symbol="four"/>
 <entry id="8389410" module="true" symbol="AntPlus"/>
 <entry id="8388827" symbol="mOffset"/>
 <entry id="8389135" symbol="mKey"/>
@@ -867,7 +867,7 @@
 <entry id="8389094" method="true" symbol="setTitle"/>
 <entry field="true" id="8389562" symbol="KEY_CLOCK"/>
 <entry field="true" id="8389074" symbol="BEHAVIOR_ON_MENU"/>
-<entry id="116" symbol="checkForFunc"/>
+<entry id="117" symbol="checkForFunc"/>
 <entry id="66" method="true" symbol="getExpression"/>
 <entry id="8389052" object="true" symbol="FontResource"/>
 <entry id="8388765" object="true" symbol="Symbol"/>
@@ -890,6 +890,7 @@
 <entry field="true" id="8388721" symbol="min"/>
 <entry field="true" id="8389197" symbol="MSG_ID_UNASSIGN_CHANNEL"/>
 <entry id="8389278" symbol="mPropertiesChanged"/>
+<entry id="104" symbol="DR"/>
 <entry field="true" id="8388970" symbol="TONE_ALERT_HI"/>
 <entry field="true" id="8389174" symbol="TEXT_JUSTIFY_LEFT"/>
 <entry id="8388923" method="true" symbol="today"/>
@@ -913,7 +914,7 @@
 <entry field="true" id="8389198" symbol="MSG_ID_ASSIGN_CHANNEL"/>
 <entry field="true" id="8388850" symbol="SUB_SPORT_GENERIC"/>
 <entry id="8388818" method="true" symbol="makeJsonRequestNative"/>
-<entry id="126" symbol="three"/>
+<entry id="127" symbol="three"/>
 <entry id="8389335" symbol="thursday"/>
 <entry id="8389185" method="true" symbol="fillCircle"/>
 <entry field="true" id="8388947" method="true" symbol="value"/>
@@ -956,10 +957,10 @@
 <entry field="true" id="8388982" symbol="TONE_POWER"/>
 <entry field="true" id="8388842" symbol="SPORT_CROSS_COUNTRY_SKIING"/>
 <entry field="true" id="8389310" symbol="position"/>
-<entry id="133" symbol="zero"/>
+<entry id="134" symbol="zero"/>
 <entry id="8388633" module="true" symbol="ActivityMonitor"/>
 <entry id="8389249" symbol="thresholdConfiguration"/>
-<entry id="131" symbol="eight"/>
+<entry id="132" symbol="eight"/>
 <entry id="8389100" method="true" symbol="onRelease"/>
 <entry id="8388709" object="true" symbol="ClockTime"/>
 <entry id="8388878" object="true" symbol="Symbols"/>
@@ -1001,7 +1002,7 @@
 <entry id="8388781" method="true" symbol="hashCode"/>
 <entry id="8389317" symbol="degrees"/>
 <entry id="24" object="true" symbol="Token"/>
-<entry id="118" symbol="number"/>
+<entry id="119" symbol="number"/>
 <entry id="8388636" module="true" symbol="Attention"/>
 <entry field="true" id="8389531" symbol="antfsSupport"/>
 <entry id="8388691" object="true" symbol="TimerStop"/>
@@ -1044,7 +1045,7 @@
 <entry id="8389313" symbol="aMethod"/>
 <entry field="true" id="8388866" symbol="SUB_SPORT_STAIR_CLIMBING"/>
 <entry id="8389437" object="true" symbol="PedalPowerBalance"/>
-<entry id="110" method="true" symbol="dequeue"/>
+<entry id="111" method="true" symbol="dequeue"/>
 <entry id="99" symbol="HG_COLOR"/>
 <entry field="true" id="8388805" symbol="BLE_REQUEST_CANCELLED"/>
 <entry id="8388776" method="true" symbol="toDouble"/>
@@ -1055,18 +1056,18 @@
 <entry field="true" id="8388813" symbol="NETWORK_REQUEST_TIMED_OUT"/>
 <entry id="8389323" symbol="may"/>
 <entry field="true" id="8388930" symbol="SECONDS_PER_MINUTE"/>
-<entry id="115" method="true" symbol="calculate"/>
+<entry id="116" method="true" symbol="calculate"/>
 <entry field="true" id="8389266" symbol="DEFAULT_RADIO_FREQUENCY"/>
 <entry field="true" id="8389066" symbol="width"/>
 <entry id="8389078" method="true" symbol="onNextPage"/>
 <entry field="true" id="8389296" symbol="QUALITY_USABLE"/>
 <entry id="8389540" method="true" symbol="onTextEntered"/>
 <entry field="true" id="8389168" symbol="COLOR_DK_BLUE"/>
-<entry id="104" symbol="getRoundCoord"/>
+<entry id="105" symbol="getRoundCoord"/>
 <entry field="true" id="8389293" symbol="QUALITY_NOT_AVAILABLE"/>
 <entry field="true" id="8388739" symbol="averageSpeed"/>
 <entry field="true" id="8388754" symbol="swimSwolf"/>
-<entry id="136" symbol="multiplication"/>
+<entry id="137" symbol="multiplication"/>
 <entry id="8388794" method="true" symbol="values"/>
 <entry id="8389546" symbol="mHeight"/>
 <entry field="true" id="8389559" symbol="KEY_LAP"/>
@@ -1145,7 +1146,7 @@
 <entry field="true" id="8389263" symbol="DEFAULT_DEVICE_TYPE"/>
 <entry id="8388728" method="true" symbol="getActivityInfo"/>
 <entry field="true" id="8388751" symbol="averageCadence"/>
-<entry id="129" symbol="six"/>
+<entry id="130" symbol="six"/>
 <entry field="true" id="94" symbol="EXP_FONT"/>
 <entry field="true" id="8389473" symbol="separatePedalSmoothnessSupport"/>
 <entry field="true" id="64" symbol="tokens"/>
@@ -1180,7 +1181,7 @@
 <entry field="true" id="8389292" symbol="GEO_MGRS"/>
 <entry field="true" id="8389003" symbol="KEY_UP"/>
 <entry id="8388782" method="true" symbol="size"/>
-<entry field="true" id="105" symbol="prev"/>
+<entry field="true" id="106" symbol="prev"/>
 <entry id="8388661" method="true" symbol="testBreak"/>
 <entry field="true" id="8388915" symbol="isSleepMode"/>
 <entry id="8389576" method="true" symbol="printStackTrace"/>
@@ -1212,7 +1213,7 @@
 <entry id="8389356" symbol="&lt;fin&gt;"/>
 <entry id="8389276" object="true" symbol="AppBase"/>
 <entry id="8389510" symbol="DEVICE_TYPE_BIKE_POWER"/>
-<entry id="121" symbol="func"/>
+<entry id="122" symbol="func"/>
 <entry field="true" id="8389034" symbol="NUMBER_PICKER_TIME"/>
 <entry id="8388646" module="true" object="true" symbol="Timer"/>
 <entry id="8389517" method="true" symbol="getTorqueEfficiency"/>
@@ -1256,7 +1257,7 @@
 <entry id="8389195" symbol="mDrawContext"/>
 <entry field="true" id="8389196" symbol="MSG_ID_RF_EVENT"/>
 <entry field="true" id="8389457" symbol="WEIGHT_SCALE_STATUS_SEARCH_TIMEOUT"/>
-<entry id="125" symbol="two"/>
+<entry id="126" symbol="two"/>
 <entry id="8389123" method="true" symbol="onShow"/>
 <entry field="true" id="8389273" symbol="searchTimeoutHighPriority"/>
 <entry id="8389253" symbol="setPayloadWithOffset"/>
@@ -1270,9 +1271,9 @@
 <entry field="true" id="8388990" symbol="KEY_POWER"/>
 <entry field="true" id="8388809" symbol="BLE_CONNECTION_UNAVAILABLE"/>
 <entry id="8389438" object="true" symbol="TorqueEfficiency"/>
-<entry field="true" id="108" symbol="y"/>
-<entry field="true" id="107" symbol="x"/>
-<entry id="134" symbol="addition"/>
+<entry field="true" id="109" symbol="y"/>
+<entry field="true" id="108" symbol="x"/>
+<entry id="135" symbol="addition"/>
 <entry field="true" id="8389246" symbol="transmissionType"/>
 <entry id="8388882" method="true" symbol="save"/>
 <entry field="true" id="8389527" symbol="operatingTime"/>
@@ -1312,7 +1313,7 @@
 <entry field="true" id="8389504" symbol="crankCadence"/>
 <entry field="true" id="8389291" symbol="GEO_DMS"/>
 <entry field="true" id="8388955" symbol="SENSOR_TEMPERATURE"/>
-<entry id="130" symbol="seven"/>
+<entry id="131" symbol="seven"/>
 <entry field="true" id="8388894" symbol="E"/>
 <entry id="8388707" method="true" symbol="insertWithPut"/>
 <entry id="8389131" method="true" symbol="setColor"/>

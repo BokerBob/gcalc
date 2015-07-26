@@ -5,7 +5,7 @@ using Toybox.Time as Time;
 using Toybox.Timer as Timer;
 
 class RoundMenuDelegate extends Ui.InputDelegate {
-    hidden const LONG_PRESS_DURATION = 500;
+    hidden const LONG_PRESS_DURATION = 300;
 
     hidden var roundMenuData;
     hidden var lastEvent;

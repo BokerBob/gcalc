@@ -5,13 +5,15 @@ using Toybox.Time as Time;
 
 class RoundMenuView extends Ui.View {
     hidden const BG_COLOR = Gfx.COLOR_BLACK;
-    hidden const FG_COLOR = Gfx.COLOR_DK_GRAY;
+    hidden const FG_COLOR = Gfx.COLOR_LT_GRAY;
     hidden const HG_COLOR = Gfx.COLOR_ORANGE;
-    hidden const LW_COLOR = Gfx.COLOR_DK_GRAY;
+    hidden const LW_COLOR = Gfx.COLOR_LT_GRAY;
 
-    hidden const FG_FONT = Gfx.FONT_XTINY;
-    hidden const HG_FONT = Gfx.FONT_TINY;
-    hidden const LW_FONT = Gfx.FONT_TINY;
+    hidden const FG_FONT = Gfx.FONT_SMALL;
+    hidden const HG_FONT = Gfx.FONT_SMALL;
+    hidden const LW_FONT = Gfx.FONT_SMALL;
+
+    hidden const DR = 20;
 
     hidden var roundMenuData;
 
@@ -51,8 +53,8 @@ class RoundMenuView extends Ui.View {
         //dc.drawCircle(cx, cy, r);
         var size = roundMenuData.items[roundMenuData.selectedGroup].size();
         var delta = 2*Math.PI/size;
-        var tr = r - 25;
-        var ty = -dc.getFontHeight(Gfx.FONT_XTINY)/2;
+        var tr = r - DR;
+        var ty = -dc.getFontHeight(FG_FONT)/2;
         for(var i = 0; i < size; i++){
             var item = roundMenuData.items[roundMenuData.selectedGroup][i];
             var a = delta*i;
