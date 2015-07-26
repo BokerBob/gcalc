@@ -16,9 +16,8 @@
     <string id="menu_dot">,</string>
     <string id="menu_sign">±</string>
     
-    <string id="menu_plus">+</string>
-    <string id="menu_minus">-</string>
-    <string id="menu_multiple">*</string>
-    <string id="menu_divide">/</string>
-    <string id="menu_sqrt">sqrt</string>
+    <string id="menu_addition">+</string>
+    <string id="menu_subtraction">-</string>
+    <string id="menu_multiplication">*</string>
+    <string id="menu_division">/</string>
 </resources>

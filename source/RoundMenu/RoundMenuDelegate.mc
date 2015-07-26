@@ -2,34 +2,40 @@ using Toybox.WatchUi as Ui;
 using Toybox.Graphics as Gfx;
 using Toybox.System as Sys;
 using Toybox.Time as Time;
+using Toybox.Timer as Timer;
 
 class RoundMenuDelegate extends Ui.InputDelegate {
-    hidden const PRESS_DELAY = 1;
+    hidden const LONG_PRESS_DURATION = 500;
 
     hidden var roundMenuData;
-    hidden var pressedKey;
-    hidden var pressKeyStart;
+    hidden var lastEvent;
+    hidden var timer = new Timer.Timer();
 
     function initialize(roundMenuData_){
         roundMenuData = roundMenuData_;
     }
 
     function onKeyPressed(e){
-        pressedKey = e.getKey();
-        pressKeyStart = Time.now();
+        lastEvent = e;
+        timer.start(method(:onLongPressCallback), LONG_PRESS_DURATION, false);
     }
 
     function onKeyReleased(e){
-        var now = Time.now();
-        if(e.getKey() == pressedKey){
-            if(pressKeyStart != null && pressKeyStart.subtract(now).value() >= PRESS_DELAY){
-                onLongPress(e);
-            } else {
-                onShortPress(e);
-            }
+        if(lastEvent != null && lastEvent.getKey() == e.getKey()){
+            lastEvent = null;
+            timer.stop();
+            onShortPress(e);
         }
-        pressedKey = null;
-        pressKeyStart = null;
+    }
+
+    function onLongPressCallback(){
+        if(lastEvent == null){
+            return false;
+        }
+        var e = lastEvent;
+        lastEvent = null;
+        onLongPress(e);
+        return true;
     }
 
     function onShortPress(e){

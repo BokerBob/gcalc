@@ -3,54 +3,44 @@ using Toybox.WatchUi as Ui;
 
 class CalcDataFactory extends RoundMenuDataFactory {
     var calcEngine;
+    var tokens;
+    var calcData;
+
+    function addToken(token){
+        tokens.addLast(token);
+        calcData.result = "";
+    }
 
     function initialize(){
         calcEngine = new CalcEngine();
-        fillFakeEngine(calcEngine);
+        tokens = new DoublyLinkedList();
     }
 
-    function test(){
-        Sys.println("callback");
-    }
-
-    function fillFakeEngine(calcEngine_){
-        calcEngine_.root = new Lexeme(new Lexeme(null, null, :number, 3), new Lexeme(null, null, :number, 5), :plus, null);
-    }
-
-    function createMenuItem(name, method){
-        return new RoundMenuItem(Ui.loadResource(name), method);
+    function createMenuItem(token){
+        return new CalcDataItem(token.value, method(:addToken), token);
     }
 
     function getData(){
         var items = [[
-              createMenuItem(Rez.Strings.menu_one, method(:test)),
-              createMenuItem(Rez.Strings.menu_two, method(:test)),
-              createMenuItem(Rez.Strings.menu_three, method(:test)),
-              createMenuItem(Rez.Strings.menu_four, method(:test)),
-              createMenuItem(Rez.Strings.menu_five, method(:test)),
-              createMenuItem(Rez.Strings.menu_six, method(:test)),
-              createMenuItem(Rez.Strings.menu_seven, method(:test)),
-              createMenuItem(Rez.Strings.menu_eight, method(:test)),
-              createMenuItem(Rez.Strings.menu_nine, method(:test)),
-              createMenuItem(Rez.Strings.menu_zero, method(:test)),
-              createMenuItem(Rez.Strings.menu_dot, method(:test)),
-              createMenuItem(Rez.Strings.menu_sign, method(:test))
+              createMenuItem(new Token(:one, :digit, "1", null, null)),
+              createMenuItem(new Token(:two, :digit, "2", null, null)),
+              createMenuItem(new Token(:three, :digit, "3", null, null)),
+              createMenuItem(new Token(:four, :digit, "4", null, null)),
+              createMenuItem(new Token(:five, :digit, "5", null, null)),
+              createMenuItem(new Token(:six, :digit, "6", null, null)),
+              createMenuItem(new Token(:seven, :digit, "7", null, null)),
+              createMenuItem(new Token(:eight, :digit, "8", null, null)),
+              createMenuItem(new Token(:nine, :digit, "9", null, null)),
+              createMenuItem(new Token(:zero, :digit, "0", null, null)),
+              createMenuItem(new Token(:dot, :dot, ",", null, null))
         ],[
-              createMenuItem(Rez.Strings.menu_plus, method(:test)),
-              createMenuItem(Rez.Strings.menu_minus, method(:test)),
-              createMenuItem(Rez.Strings.menu_multiple, method(:test)),
-              createMenuItem(Rez.Strings.menu_divide, method(:test)),
-              createMenuItem(Rez.Strings.menu_sqrt, method(:test))
-              //createMenuItem(Rez.Strings.menu_percentage, method(:test)),
-              //createMenuItem(Rez.Strings.menu_divideByOne, method(:test))
-              //createMenuItem("MC", method(:test)),
-              //createMenuItem("MR", method(:test)),
-              //createMenuItem("MS", method(:test)),
-              //createMenuItem("M+", method(:test)),
-              //new RoundMenuItem("M-", method(:test))
+              createMenuItem(new Token(:addition, :operator, "+", true, 3)),
+              createMenuItem(new Token(:subtraction, :operator, "-", true, 3)),
+              createMenuItem(new Token(:multiplication, :operator, "*", true, 2)),
+              createMenuItem(new Token(:division, :operator, "/", true, 2))
         ]];
         var roundMenuData = new RoundMenuData(items, 0, 0);
-        var calcData = new CalcData(roundMenuData, calcEngine);
+        calcData = new CalcData(roundMenuData, calcEngine, tokens);
         return calcData;
     }
 }
